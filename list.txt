@@ -2,3 +2,4 @@ COMPUTER SCIENCE
 01 Computer Networks 
 2 Object Oriented Programming
 03 Software Engineering
+4 Data Mining
